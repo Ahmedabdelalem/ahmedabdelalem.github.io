@@ -127,14 +127,18 @@
             max-width: 800px;
         }
 
-        .hero-image {
+        .hero-image-placeholder {
             width: 180px;
             height: 180px;
             border-radius: 50%;
-            object-fit: cover;
             margin: 0 auto 2rem;
             border: 3px solid var(--text-primary);
             box-shadow: 0 0 40px rgba(255, 255, 255, 0.2);
+            background: linear-gradient(135deg, #2a2a2a 0%, #1a1a1a 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 4rem;
         }
 
         .hero h1 {
@@ -619,7 +623,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <img src="https://raw.githubusercontent.com/Ahmedabdelalem/ahmedabdelalem.github.io/main/profile.jpg" alt="Ahmed AbdElalim" class="hero-image">
+            <div class="hero-image-placeholder">👨‍💻</div>
             <h1>Ahmed AbdElalim</h1>
             <p class="hero-subtitle">Data Scientist & Analytics Professional</p>
             <p class="hero-description">

@@ -6,7 +6,7 @@ This is a modern, responsive portfolio website showcasing my expertise as a Data
 
 ### 🎯 About Me
 
-I'm Ahmed Abd Elalim, a passionate data scientist dedicated to transforming data into actionable insights through advanced analytics, machine learning, and data visualization. With expertise in statistical analysis, predictive modeling, and business intelligence, I help organizations make data-driven decisions.
+I'm Ahmed Abd Elalim, a passionate data scientist dedicated to transforming data into actionable insights through advanced analytics, machine learning, and data visualization. With expertise in statistics, predictive modeling, and data visualization.
 
 ### 🚀 Key Features
 
@@ -69,13 +69,11 @@ I'm Ahmed Abd Elalim, a passionate data scientist dedicated to transforming data
 
 - **Data Science & Analytics Certification** - Prodigy InfoTech (2024)
 - **Cognifyz Data Science Program** - Cognifyz Technologies (2024)
-- **Maven Analytics Certification** - Maven Analytics (2024)
 
 ### 🔗 Connect With Me
 
 - **LinkedIn**: [Ahmed Abd Elalim](https://www.linkedin.com/in/ahmed-abd-elalim4631)
 - **GitHub**: [@Ahmedabdelalem](https://github.com/Ahmedabdelalem)
-- **Maven Analytics**: [My Profile](https://mavenanalytics.io/profile/c8a1c3d0-5031-70f1-d2a3-30ae31f62188)
 
 ### 📧 Contact
 
